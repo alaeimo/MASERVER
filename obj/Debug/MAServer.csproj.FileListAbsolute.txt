@@ -1,0 +1,10 @@
+E:\Projects\C#\MAServer V2\MAServer\bin\Debug\MAServer.exe.config
+E:\Projects\C#\MAServer V2\MAServer\bin\Debug\MAServer.exe
+E:\Projects\C#\MAServer V2\MAServer\bin\Debug\MAServer.pdb
+E:\Projects\C#\MAServer V2\MAServer\obj\Debug\MAServer.csprojResolveAssemblyReference.cache
+E:\Projects\C#\MAServer V2\MAServer\obj\Debug\MAServer.MAServer.resources
+E:\Projects\C#\MAServer V2\MAServer\obj\Debug\MAServer.Properties.Resources.resources
+E:\Projects\C#\MAServer V2\MAServer\obj\Debug\MAServer.csproj.GenerateResource.Cache
+E:\Projects\C#\MAServer V2\MAServer\obj\Debug\MAServer.csproj.CoreCompileInputs.cache
+E:\Projects\C#\MAServer V2\MAServer\obj\Debug\MAServer.exe
+E:\Projects\C#\MAServer V2\MAServer\obj\Debug\MAServer.pdb
